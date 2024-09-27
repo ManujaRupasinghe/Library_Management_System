@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BooksDB.mdf
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BooksDB_log.ldf
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.student.resources
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lecture.resources
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Librairan.resources
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\project-esoft\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BooksDB.mdf
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BooksDB_log.ldf
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.student.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lecture.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Librairan.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.newstudent.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\project-esoft - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
